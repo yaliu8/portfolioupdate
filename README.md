@@ -15,4 +15,4 @@ Attributions
 -themeforest
 
 Known issues
-- not all the information is accurate (e.g. awares won, etc, these are just placeholders)
+- not all the information is accurate (e.g. awards won, etc, these are just placeholders)
