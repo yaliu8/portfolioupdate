@@ -1,0 +1,7 @@
+var PanoptoTS;!function(o){var a;a=function(o,a){this.key=o,this.value=a},(o.Models||(o.Models={})).KeyValue=a}(PanoptoTS||(PanoptoTS={}));
+
+var PanoptoTS;!function(o){var e,a,t;e=o.Models||(o.Models={}),a=e.Settings||(e.Settings={}),(t=a.CaptionPlacement||(a.CaptionPlacement={}))[t.docked=0]="docked",t[t.Docked=0]="Docked",t[t.overlay=1]="overlay",t[t.Overlay=1]="Overlay"}(PanoptoTS||(PanoptoTS={}));
+
+var PanoptoTS;!function(e){var t,o,n;t=e.Models||(e.Models={}),o=t.Settings||(t.Settings={}),n=function(){function e(e,t,o){this.placement=e,this.textSize=t,this.colorSchemeKey=o}return e.prototype.equals=function(e){return e&&this.placement===e.placement&&this.textSize===e.textSize&&this.colorSchemeKey===e.colorSchemeKey},e.prototype.copy=function(){return new e(this.placement,this.textSize,this.colorSchemeKey)},e.prototype.getSettings=function(){return[new t.KeyValue(o.Names.CaptionPlacement,this.placement.toString()),new t.KeyValue(o.Names.CaptionSize,this.textSize.toString()),new t.KeyValue(o.Names.CaptionColors,this.colorSchemeKey)]},e}(),o.CaptionStyles=n}(PanoptoTS||(PanoptoTS={}));
+var PanoptoTS;!function(o){var n,t,a;n=o.Models||(o.Models={}),t=n.Settings||(n.Settings={}),a=function(){function o(){}return o.CaptionPlacement="CaptionPlacement",o.CaptionSize="CaptionSize",o.CaptionColors="CaptionColors",o}(),t.Names=a}(PanoptoTS||(PanoptoTS={}));
+//# sourceMappingURL=Models.js.map
