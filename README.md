@@ -1,18 +1,14 @@
 # portfolioupdate
 A refresh of my portfolio to be more professional looking
 
-Deployed:  https://yaliu8.github.io/portfolioupdate/
-Github Code: https://github.com/yaliu8/portfolioupdate.git
+## Deployed:  https://yaliu8.github.io/portfolioupdate/
+## Github Code: https://github.com/yaliu8/portfolioupdate.git
 
-Instructions
-Dependencies
+## Dependencies
 - Bootstrap
--CSS
+- CSS
 - HTML
-- PHP
+- Javascript
 
-Attributions
--themeforest
-
-Known issues
-- not all the information is accurate (e.g. awards won, etc, these are just placeholders)
+## Known issues
+- Not all  information is accurate (e.g. awards won, etc, are just placeholders)
